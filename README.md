@@ -2,7 +2,7 @@
 2025/09/23 講題：AI驅動數位轉型的技術與應用 講師：廖文華 主任 手寫筆記1
 ![130fb416-df4a-4ba1-be62-a31c2d3b11b9.jpg](https://github.com/liuleo0518/book_discussion/blob/main/130fb416-df4a-4ba1-be62-a31c2d3b11b9.jpg)
 2025/09/30 講題：奈微機電系統技術及應用 講師：戴慶良 博士
-
+![930](https://github.com/user-attachments/assets/310c9947-92ce-476e-88c1-5024dc33b5b0)
 2025/10/07 講題：半導體電漿電源的演進、應用與設計關鍵 講師：洪再和 博士
 
 2025/10/14 講題：A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management 講師：陳信忠 副教授
